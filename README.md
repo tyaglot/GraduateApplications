@@ -1,7 +1,7 @@
 # GraduateApplications
 Materials to support my graduate school applications.
 
-(Dec 14th, 2020) Currently I am in the process of getting permission from my employer, Google, to actually put anything on here.
+(Dec 16th, 2020) Currently I am in the process of getting permission from my employer, Google, to actually put anything on here.
 Apologies to any admissions committee member that checks this page before I am able to legally put anything up, my hands are tied.
 
 What I would like to have here:
